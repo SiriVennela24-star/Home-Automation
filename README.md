@@ -55,8 +55,11 @@ Firstly i went to my Template and created Switches titled as Relay 1, Relay 2, R
 <br>
 Step 3 :  Authentication code is taken from the blynk application and imported in the code.
 <br>
+<br>
 After saving the design, there will be an Authenticated code where we can see the Template ID, teamplate name etc. where we need to import in the code.
 <br>
+<br>
 Step 4 : Imported Libraries like BlynkESP32_BT_WT.
+<br>
 <br>
 Step 5 : Wrote the code in WorkWi application with imported libraries.
